@@ -49,3 +49,29 @@ The study was conducted in two phases:
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">Particle Angularity and Image Analysis</h3>
   <p style="margin-bottom: 15px;">Microscopic image analysis of particle morphology at different CWG replacement ratios. Real images were binarized and discretized to quantify particle angularity and shape characteristics, providing insights into how glass content affects the packing behavior and interlocking of the composite.</p>
+  <img src="/n.hasnat_ce/images/research-projects/08dc1389-08c5-4342-a4d3-a7e86002a286-1785781528656_image.png" alt="Microscopic image analysis of particle angularity at different CWG ratios" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Particle morphology analysis: Real, binarized, and discretized images at varying CWG replacement ratios</em></p>
+</div>
+
+<div style="margin: 30px 0;">
+  <h3 style="margin-bottom: 10px;">CBR Stress-Penetration Behavior</h3>
+  <p style="margin-bottom: 15px;">California Bearing Ratio (CBR) stress-penetration curves for sand–CWG–fly ash composites under different mix proportions. The results demonstrate the load-bearing improvement achieved through optimized glass and fly ash content.</p>
+  <img src="/n.hasnat_ce/images/research-projects/d7879814-643b-48bb-8a38-8e221f7d7879-1785785195009_image.png" alt="CBR stress-penetration chart for sand-CWG-fly ash composites" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>CBR stress-penetration curves for various sand–CWG–FA mix proportions</em></p>
+</div>
+
+---
+
+## My Contributions
+
+- Carried out the geotechnical investigation and laboratory testing program
+- Conducted image analysis for particle morphology and angularity characterization
+- Drafted the manuscript for publication
+
+---
+
+## Publications
+
+1. **Hasnat, M.N.**, Ahmed, R., et al. (2024). "Partial replacement of sand with crushed waste glass for geotechnical applications." *Heliyon*, 10(21), e38754. [Read Paper →](https://www.cell.com/heliyon/fulltext/S2405-8440(24)14785-8#fig1)
+
+2. **Hasnat, M.N.**, Ahmed, R., et al. (2024). "Partial Replacement of Sand with Glass Waste for Geotechnical Applications." *Proceedings of the 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)*, KUET, Bangladesh. [Read Paper →](https://www.researchgate.net/publication/379122234_PARTIAL_REPLACEMENT_OF_SAND_WITH_GLASS_WASTE_FOR_GEOTECHNICAL_APPLICATIONS)
