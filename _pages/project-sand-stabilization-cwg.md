@@ -5,7 +5,7 @@ permalink: /research-projects/sand-stabilization-cwg/
 author_profile: true
 ---
 
-[← Back to Research Projects](/research-projects/)
+[← Back to Research Projects](/n.hasnat_ce/research-projects/)
 
 ---
 
@@ -41,12 +41,3 @@ The study was conducted in two phases:
 1. Islam, S., Islam, J., Alam, M. J. Bin, Chowdhury, A. S., & **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand by Fine-Grained Crushed Waste Glass Along with Fly Ash Stabilization for Geotechnical Applications in Pavement." *Heliyon*, 10(19).
 
 2. Islam, S., Alam, M. J. B., Islam, J., Chowdhury, A. S., **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand with Glass Waste for Geotechnical Applications." *Proceedings of the 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024, Khulna)*, Paper ID: ICCESD_2024_0018, 1–8.
-
----
-
-## Gallery
-
-*Images showcasing experimental setup, sample preparation, and test results will be added here.*
-
-<!-- To add images in the future, use the format below: -->
-<!-- ![Description](/images/project-cwg/image-name.jpg) -->
