@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nabid Hasnat"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Nabid Hasnat"
 description              : &description "Lecturer | Civil Engineering Researcher | Geotechnics & Bio-geotechnics"
