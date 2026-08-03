@@ -13,6 +13,8 @@ author_profile: true
 
 This research project explores a sustainable approach to geotechnical engineering by investigating the partial replacement of natural sand with **crushed waste glass (CWG)** — both as a standalone additive and in combination with **fly ash (FA)** — for applications in pavement subgrade and other geotechnical uses.
 
+This was my first research project and provided me with my first formal experience in conducting structured research and analysis.
+
 The growing demand for natural sand in construction has led to environmental degradation and resource depletion. Simultaneously, waste glass poses a significant disposal challenge worldwide. This project addresses both problems by evaluating whether fine-grained crushed waste glass can serve as a viable substitute for natural sand in geotechnical applications.
 
 The study was conducted in two phases:
@@ -47,26 +49,3 @@ The study was conducted in two phases:
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">Particle Angularity and Image Analysis</h3>
   <p style="margin-bottom: 15px;">Microscopic image analysis of particle morphology at different CWG replacement ratios. Real images were binarized and discretized to quantify particle angularity and shape characteristics, providing insights into how glass content affects the packing behavior and interlocking of the composite.</p>
-  <img src="/n.hasnat_ce/images/research-projects/08dc1389-08c5-4342-a4d3-a7e86002a286-1785781528656_image.png" alt="Particle angularity analysis showing real, binarized, and discretized images" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
-  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Particle angularity analysis: (a) Natural sand, (b) Sand–CWG mixture, (c) Sand–CWG–FA composite — showing real, binarized, and discretized images</em></p>
-</div>
-
----
-
-## My Contributions
-
-- Carried out the geotechnical investigation and laboratory testing program
-- Conducted image analysis for particle morphology and angularity characterization
-- Drafted the manuscript for publication
-
----
-
-## Publications
-
-1. Islam, S., Islam, J., Alam, M. J. Bin, Chowdhury, A. S., & **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand by Fine-Grained Crushed Waste Glass Along with Fly Ash Stabilization for Geotechnical Applications in Pavement." *Heliyon*, 10(19).
-   <br>
-   <a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)14785-8#fig1" target="_blank" style="color: #52adc8;">📄 Read Full Paper →</a>
-
-2. Islam, S., Alam, M. J. B., Islam, J., Chowdhury, A. S., **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand with Glass Waste for Geotechnical Applications." *Proceedings of the 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024, Khulna)*, Paper ID: ICCESD_2024_0018, 1–8.
-   <br>
-   <a href="https://www.researchgate.net/publication/379122234_PARTIAL_REPLACEMENT_OF_SAND_WITH_GLASS_WASTE_FOR_GEOTECHNICAL_APPLICATIONS" target="_blank" style="color: #52adc8;">📄 Read Full Paper →</a>
