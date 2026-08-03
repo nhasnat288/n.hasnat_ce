@@ -9,7 +9,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 
 ---
 
-### [Geotechnical Application of Crushed Waste Glass and Fly Ash in Sand Replacement](/research-projects/sand-stabilization-cwg/)
+### [Geotechnical Application of Crushed Waste Glass and Fly Ash in Sand Replacement](/n.hasnat_ce/research-projects/sand-stabilization-cwg/)
 
 **Status:** Published | **Duration:** 2022 -- 2024
 
