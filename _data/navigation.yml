@@ -1,3 +1,5 @@
 # Navigation links for the header of the website.
 
 main:
+  - title: "Research Projects"
+    url: /research-projects/
