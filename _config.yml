@@ -20,7 +20,7 @@ repository               : "nhasnat288/n.hasnat_ce"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-      avatar           : "a66a9919-0246-4d1c-95bf-1caa7e8dd3b3-1785846487268_image.png"
+  avatar           : "a66a9919-0246-4d1c-95bf-1caa7e8dd3b3-1785846487268_image.png"
   name             : "Nabid Hasnat"
   pronouns         :
   bio              : "Lecturer, Dept. of Civil Engineering, Leading University, Bangladesh. Research interests in soil stabilization, geohazard mitigation, and bio-geotechnics."
