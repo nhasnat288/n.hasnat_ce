@@ -69,4 +69,19 @@ Below are my ongoing and completed research projects. Click on a project title t
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px;">
+<h3><a href="/n.hasnat_ce/research-projects/soil-stabilization-lime/" style="color: #52adc8; text-decoration: none;">Ternary Stabilisation of Silty Subsoil Using Lime, Rice Husk Ash, and Eggshell Powder</a></h3>
+<p><strong>Status:</strong> Ongoing &nbsp;|&nbsp; <strong>Duration:</strong> 2025 – Present</p>
+<p>This study evaluates a ternary blend of lime with two locally available agricultural wastes — rice husk ash (RHA) and eggshell powder (ESP) — as a stabiliser for weak silty subsoil. The optimum blend of 4% lime, 10% RHA, and 3% ESP reduced the plasticity index by 58.6% and raised the unconfined compressive strength by 103.3%.</p>
+<p><strong>Key areas:</strong> Lime stabilization, rice husk ash, eggshell powder, ternary blend, foundation soil improvement</p>
+</div>
+<div style="flex: 0 0 420px;">
+<img src="/n.hasnat_ce/images/research-projects/19f258cd-5ab0-4866-b24a-28e19a4f216f-1785843309199_image.png" alt="Graphical Abstract - Soil Stabilization with Lime-RHA-ESP" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 5px;"><em>Graphical Abstract</em></p>
+</div>
+</div>
+
+---
+
 *More projects will be added as research progresses.*
