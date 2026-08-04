@@ -23,9 +23,9 @@ author:
   avatar           : "Nabid Hasnat_DP.jpg"
   name             : "Nabid Hasnat"
   pronouns         :
-  bio              : "Lecturer, Dept. of Civil Engineering, Leading University, Bangladesh. Research interests in soil stabilization, geohazard mitigation, and bio-geotechnics."
+  bio              : "Lecturer<br>Department of Civil Engineering<br>Leading University"
   location         : "Sylhet, Bangladesh"
-  employer         : "Leading University"
+  employer         :
   uri              :
   email            : "n.hasnat288@gmail.com"
 
@@ -35,11 +35,11 @@ author:
   googlescholar    :
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0009-6357-0282"
   semantic         :
   ssrn             :
   pubmed           :
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Nabid-Hasnat"
   scopus           :
   zotero           :
 
@@ -47,14 +47,14 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "nhasnat288"
+  github           :
   kaggle           :
   stackoverflow    :
 
   # Social media
   artstation       :
   bluesky          :
-  facebook         :
+  facebook         : "navid.hasnat"
   flickr           :
   foursquare       :
   goodreads        :
