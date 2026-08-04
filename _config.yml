@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
+# For technical reasons, this file is *NOT* rheloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
@@ -20,7 +20,7 @@ repository               : "nhasnat288/n.hasnat_ce"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png"
+    avatar           : "images/a66a9919-0246-4d1c-95bf-1caa7e8dd3b3-1785846487268_image.png"
   name             : "Nabid Hasnat"
   pronouns         :
   bio              : "Lecturer, Dept. of Civil Engineering, Leading University, Bangladesh. Research interests in soil stabilization, geohazard mitigation, and bio-geotechnics."
