@@ -54,4 +54,19 @@ Below are my ongoing and completed research projects. Click on a project title t
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px;">
+<h3><a href="/n.hasnat_ce/research-projects/slope-stability/" style="color: #52adc8; text-decoration: none;">Physically Admissible Slope-Stability Prediction Using Bayesian Physics-Informed Neural Networks</a></h3>
+<p><strong>Status:</strong> Ongoing &nbsp;|&nbsp; <strong>Duration:</strong> 2025 – Present</p>
+<p>This research develops a hard-monotone Bayesian physics-informed neural network (B-PINN) for slope stability classification that guarantees physical admissibility by construction. The model enforces monotonicity architecturally with respect to key geotechnical parameters, achieving zero monotonicity violations while conventional baselines violate monotonicity in 19–31% of out-of-range parameter sweeps.</p>
+<p><strong>Key areas:</strong> Bayesian neural networks, physics-informed machine learning, slope stability, monotonicity constraints, geotechnical reliability</p>
+</div>
+<div style="flex: 0 0 420px;">
+<img src="/n.hasnat_ce/images/research-projects/bdb45fb0-dfd6-42cd-915e-af4749ad68cf-1785841820837_image.png" alt="Graphical Abstract - B-PINN Slope Stability" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 5px;"><em>Graphical Abstract</em></p>
+</div>
+</div>
+
+---
+
 *More projects will be added as research progresses.*
