@@ -56,13 +56,13 @@ Below are my ongoing and completed research projects. Click on a project title t
 
 <div style="display: flex; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;">
-<h3><a href="/n.hasnat_ce/research-projects/slope-stability/" style="color: #52adc8; text-decoration: none;">Physically Admissible Slope-Stability Prediction Using Bayesian Physics-Informed Neural Networks</a></h3>
+<h3><a href="/n.hasnat_ce/research-projects/slope-stability/" style="color: #52adc8; text-decoration: none;">Physically Augmented B-PINN for Slope Stability Classification</a></h3>
 <p><strong>Status:</strong> Ongoing &nbsp;|&nbsp; <strong>Duration:</strong> 2025 – Present</p>
-<p>This research develops a hard-monotone Bayesian physics-informed neural network (B-PINN) for slope stability classification that guarantees physical admissibility by construction. The model enforces monotonicity architecturally with respect to key geotechnical parameters, achieving zero monotonicity violations while conventional baselines violate monotonicity in 19–31% of out-of-range parameter sweeps.</p>
-<p><strong>Key areas:</strong> Bayesian neural networks, physics-informed machine learning, slope stability, monotonicity constraints, geotechnical reliability</p>
+<p>This research develops a hard-monotone Bayesian physics-informed neural network (B-PINN) for slope stability classification that enforces physical monotonicity constraints directly within the network architecture. The model guarantees that predicted failure probability increases with slope angle and pore-water pressure while decreasing with cohesion and friction angle.</p>
+<p><strong>Key areas:</strong> Bayesian neural networks, physics-informed machine learning, slope stability, monotonicity enforcement</p>
 </div>
 <div style="flex: 0 0 420px;">
-<img src="/n.hasnat_ce/images/research-projects/bdb45fb0-dfd6-42cd-915e-af4749ad68cf-1785841820837_image.png" alt="Graphical Abstract - B-PINN Slope Stability" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="/n.hasnat_ce/images/research-projects/bdb45fb0-dfd6-42cd-915e-af4749ad68cf-1785841820837_image.png" alt="Graphical Abstract - Slope Stability B-PINN" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 5px;"><em>Graphical Abstract</em></p>
 </div>
 </div>
@@ -73,11 +73,26 @@ Below are my ongoing and completed research projects. Click on a project title t
 <div style="flex: 1; min-width: 280px;">
 <h3><a href="/n.hasnat_ce/research-projects/soil-stabilization-lime/" style="color: #52adc8; text-decoration: none;">Ternary Stabilisation of Silty Subsoil Using Lime, Rice Husk Ash, and Eggshell Powder</a></h3>
 <p><strong>Status:</strong> Ongoing &nbsp;|&nbsp; <strong>Duration:</strong> 2025 – Present</p>
-<p>This study evaluates a ternary blend of lime with two locally available agricultural wastes — rice husk ash (RHA) and eggshell powder (ESP) — as a stabiliser for weak silty subsoil. The optimum blend of 4% lime, 10% RHA, and 3% ESP reduced the plasticity index by 58.6% and raised the unconfined compressive strength by 103.3%.</p>
-<p><strong>Key areas:</strong> Lime stabilization, rice husk ash, eggshell powder, ternary blend, foundation soil improvement</p>
+<p>This study develops a three-stage sequential optimisation protocol to stabilise weak near-surface silty subsoil using lime, rice husk ash (RHA), and eggshell powder (ESP). The optimum blend of 4% lime + 10% RHA + 3% ESP achieves a 58.6% plasticity index reduction and 103.3% UCS increase, converting the soil from a poor to a fair–good subgrade material.</p>
+<p><strong>Key areas:</strong> Ternary stabilisation, lime–pozzolan blends, agricultural waste valorisation, subgrade improvement</p>
 </div>
 <div style="flex: 0 0 420px;">
-<img src="/n.hasnat_ce/images/research-projects/19f258cd-5ab0-4866-b24a-28e19a4f216f-1785843309199_image.png" alt="Graphical Abstract - Soil Stabilization with Lime-RHA-ESP" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="/n.hasnat_ce/images/research-projects/19f258cd-3ba7-4ea2-82f8-48e01fee7a1d-1785842645498_image.png" alt="Graphical Abstract - Ternary Soil Stabilisation" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 5px;"><em>Graphical Abstract</em></p>
+</div>
+</div>
+
+---
+
+<div style="display: flex; align-items: flex-start; gap: 25px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px;">
+<h3><a href="/n.hasnat_ce/research-projects/embankment-soil/" style="color: #52adc8; text-decoration: none;">Remediation of Desiccation-Ridden Embankment Soil Using Waste Plastic Fiber, Fly Ash, and Lime</a></h3>
+<p><strong>Status:</strong> Ongoing &nbsp;|&nbsp; <strong>Duration:</strong> 2025 – Present</p>
+<p>This study develops a three-stage additive optimisation strategy — waste plastic fiber (WPF), fly ash (FA), then lime — to remediate desiccation-ridden embankment soil from Tahirpur, Sunamganj. The optimum blend of 2% WPF + 15% FA + 6% Lime delivers a 242.85% CBR increase, 150% UCS gain, 91.17% crack volume reduction, and 83.54% surface cracking reduction.</p>
+<p><strong>Key areas:</strong> Embankment soil remediation, waste plastic fiber, fly ash–lime stabilisation, desiccation cracking control</p>
+</div>
+<div style="flex: 0 0 420px;">
+<img src="/n.hasnat_ce/images/research-projects/3b01ba26-439c-4aa7-b1d9-fd41dfecb91a-1785843498222_image.png" alt="Graphical Abstract - Embankment Soil Remediation" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 5px;"><em>Graphical Abstract</em></p>
 </div>
 </div>
