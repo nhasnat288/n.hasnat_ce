@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Nabid Hasnat"
 description              : &description "Lecturer | Civil Engineering Researcher | Geotechnics & Bio-geotechnics"
 url                      : https://nhasnat288.github.io
-baseurl                  : "/n.hasnat_ce"
-repository               : "nhasnat288/n.hasnat_ce"
+baseurl                  : ""
+repository               : "nhasnat288/nhasnat288.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
