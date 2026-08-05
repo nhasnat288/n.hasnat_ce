@@ -5,7 +5,7 @@ permalink: /research-projects/sand-stabilization-cwg/
 author_profile: true
 ---
 
-[← Back to Research Projects](/n.hasnat_ce/research-projects/)
+[← Back to Research Projects](/research-projects/)
 
 ---
 
@@ -42,21 +42,21 @@ The study was conducted in two phases:
 <div style="margin: 20px 0;">
   <h3 style="margin-bottom: 10px;">SEM-EDS Microstructural Analysis</h3>
   <p style="margin-bottom: 15px;">Scanning Electron Microscopy (SEM) images revealing the microstructural characteristics of the sand–glass–fly ash composites. The images show (a) irregular surface morphology of crushed waste glass particles with notch-like undulations at higher magnification, and (d) pore-filling and bonding mechanisms of fly ash clusters within the composite matrix.</p>
-  <img src="/n.hasnat_ce/images/research-projects/e7b5b840-e9f4-49e6-85f4-e07e7db6579d-1785781458556_image.png" alt="SEM micrographs showing microstructural analysis of CWG and fly ash composites" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/e7b5b840-e9f4-49e6-85f4-e07e7db6579d-1785781458556_image.png" alt="SEM micrographs showing microstructural analysis of CWG and fly ash composites" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>SEM micrographs: (a) CWG particle morphology and surface features, (d) Fly ash bonding and pore-filling in the stabilized composite</em></p>
 </div>
 
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">Particle Angularity and Image Analysis</h3>
   <p style="margin-bottom: 15px;">Microscopic image analysis of particle morphology at different CWG replacement ratios. Real images were binarized and discretized to quantify particle angularity and shape characteristics, providing insights into how glass content affects the packing behavior and interlocking of the composite.</p>
-  <img src="/n.hasnat_ce/images/research-projects/08dc1389-08c5-4342-a4d3-a7e86002a286-1785781528656_image.png" alt="Microscopic image analysis of particle angularity at different CWG ratios" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/08dc1389-08c5-4342-a4d3-a7e86002a286-1785781528656_image.png" alt="Microscopic image analysis of particle angularity at different CWG ratios" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Particle morphology analysis: Real, binarized, and discretized images at varying CWG replacement ratios</em></p>
 </div>
 
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">CBR Stress-Penetration Behavior</h3>
   <p style="margin-bottom: 15px;">California Bearing Ratio (CBR) stress-penetration curves for sand–CWG–fly ash composites under different mix proportions. The results demonstrate the load-bearing improvement achieved through optimized glass and fly ash content.</p>
-  <img src="/n.hasnat_ce/images/research-projects/d7879814-643b-48bb-8a38-8e221f7d7879-1785785195009_image.png" alt="CBR stress-penetration chart for sand-CWG-fly ash composites" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/d7879814-643b-48bb-8a38-8e221f7d7879-1785785195009_image.png" alt="CBR stress-penetration chart for sand-CWG-fly ash composites" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>CBR stress-penetration curves for various sand–CWG–FA mix proportions</em></p>
 </div>
 
