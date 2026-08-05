@@ -17,7 +17,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Waste glass utilization, fly ash stabilization, sustainable geotechnical materials, pavement subgrade improvement</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Geotechnical%20Application%20of%20Crushed%20Waste%20Glass%20and%20Fly%20Ash%20in%20Sand%20Replacement.mp4" type="video/mp4">
 </video>
 </div>
@@ -33,7 +33,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Bio-cementation, cyanobacteria-induced calcite precipitation, sustainable soil stabilization, MICP</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Assessment%20of%20Bio-cementation%20Capability%20of%20Arthrospira%20platensis%20in%20Sand%20Solidification.mp4" type="video/mp4">
 </video>
 </div>
@@ -49,7 +49,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Desiccation cracking, fiber reinforcement, fly ash stabilization, embankment soil, crack mitigation</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Mitigating%20Desiccation-Induced%20Cracking%20of%20Embankment%20Soil%20Using%20Fiber%20Reinforcement%20and%20Fly%20Ash.mp4" type="video/mp4">
 </video>
 </div>
@@ -65,7 +65,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Physics-informed neural networks, Bayesian deep learning, slope stability, geotechnical classification</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Physically%20Augmented%20B-PINN%20for%20Slope%20Stability%20Classification.mp4" type="video/mp4">
 </video>
 </div>
@@ -81,7 +81,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Lime stabilization, rice husk ash, eggshell powder, ternary soil stabilization, sustainable construction</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Ternary%20Stabilisation%20of%20Silty%20Subsoil%20Using%20Lime%2C%20Rice%20Husk%20Ash%2C%20and%20Eggshell%20Powder.mp4" type="video/mp4">
 </video>
 </div>
@@ -97,7 +97,7 @@ Below are my ongoing and completed research projects. Click on a project title t
 <p><strong>Key areas:</strong> Waste plastic fiber, fly ash, lime stabilization, desiccation remediation, embankment soil</p>
 </div>
 <div style="flex: 0 0 420px;">
-<video muted playsinline onmouseenter="this.play()" onmouseleave="this.pause()" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<video autoplay muted loop playsinline style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <source src="/n.hasnat_ce/images/research-projects/Remediation%20of%20Desiccation-Ridden%20Embankment%20Soil%20Using%20Waste%20Plastic%20Fiber%2C%20Fly%20Ash%2C%20and%20Lime.mp4" type="video/mp4">
 </video>
 </div>
