@@ -44,21 +44,21 @@ The study evaluated the effect of different treatment concentrations (0.25M, 0.5
 <div style="margin: 20px 0;">
   <h3 style="margin-bottom: 10px;">Test Materials</h3>
   <p style="margin-bottom: 15px;">Ottawa sand and cyanobacterial suspension used in the bio-cementation experiments. Images show (a) Ottawa sand sample, (b) Ottawa sand at 40× magnification revealing rounded particle morphology, (c) bacterial suspension of <em>Arthrospira platensis</em>, and (d) bacterial culture at 40× magnification showing filamentous cyanobacteria.</p>
-  <img src="/n.hasnat_ce/images/research-projects/1b333a61-db50-4c70-8ebb-e74438b5b8f9-1785786584495_image.png" alt="Ottawa sand and bacterial suspension images" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/1b333a61-db50-4c70-8ebb-e74438b5b8f9-1785786584495_image.png" alt="Ottawa sand and bacterial suspension images" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>(a) Ottawa sand, (b) Ottawa sand at 40× magnification, (c) Bacterial suspension, (d) Bacterial suspension at 40× magnification</em></p>
 </div>
 
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">UCS Stress-Strain Behavior</h3>
   <p style="margin-bottom: 15px;">Stress-strain curves from unconfined compressive strength (UCS) tests on the best-performing specimens at each treatment concentration. The 0.25M treatment achieved the highest peak stress (~470 kPa), while higher concentrations showed progressively lower strength — suggesting that excess cementation solution may inhibit optimal calcite distribution.</p>
-  <img src="/n.hasnat_ce/images/research-projects/b712de81-25a3-496e-bb28-2c201a4dbbd3-1785786606673_image.png" alt="UCS stress-strain behavior for different treatment concentrations" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/b712de81-25a3-496e-bb28-2c201a4dbbd3-1785786606673_image.png" alt="UCS stress-strain behavior for different treatment concentrations" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Stress-strain behavior of the best performing UCS specimens for different treatment concentrations</em></p>
 </div>
 
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">Hydraulic Conductivity and Permeability Reduction</h3>
   <p style="margin-bottom: 15px;">Average hydraulic conductivity values and corresponding permeability reduction percentages for treated sand compared to untreated sand. Higher treatment concentrations led to greater permeability reduction, reaching 72.79% at 1.00M — confirming that calcite precipitation effectively fills pore spaces and reduces water flow through the sand matrix.</p>
-  <img src="/n.hasnat_ce/images/research-projects/ec3fe3f1-5ea2-4fd9-b11b-965cbac24e33-1785786639711_image.png" alt="Hydraulic conductivity and permeability reduction chart" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img src="/images/research-projects/ec3fe3f1-5ea2-4fd9-b11b-965cbac24e33-1785786639711_image.png" alt="Hydraulic conductivity and permeability reduction chart" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Average hydraulic conductivity and permeability reduction compared to untreated sand for different treatment concentrations</em></p>
 </div>
 
