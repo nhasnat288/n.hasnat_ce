@@ -42,21 +42,21 @@ The research was conducted in two phases. The initial phase assessed polypropyle
 <h3>3D Photogrammetric Modeling</h3>
 <p>Three-dimensional models of cracked soil specimens generated using Agisoft Metashape 2.0.1, enabling volumetric crack quantification from multiple viewing angles.</p>
 <img src="/images/research-projects/3D-model-generated-in-Agisoft-Metashape-201_W640.jpg
-" alt="3D model generated in Agisoft Metashape" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+" alt="3D model generated in Agisoft Metashape" style="max-width: 75%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: 3D model of cracked soil specimen generated in Agisoft Metashape 2.0.1</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Axial Stress–Strain Behavior</h3>
 <p>Unconfined compressive strength comparison between untreated soil and optimally treated soil (1.5% polyester fiber + 15% FA). The combined treatment increased peak UCS from 218.56 kPa to 317.04 kPa, with a notable bridging effect of fiber visible in the failure pattern.</p>
-<img src="/images/research-projects/Axial-stress-vs-axial-strain-for-original-and-modified-soil_W640.jpg" alt="Axial stress vs axial strain for original and modified soil" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+<img src="/images/research-projects/Axial-stress-vs-axial-strain-for-original-and-modified-soil_W640.jpg" alt="Axial stress vs axial strain for original and modified soil" style="max-width: 80%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Axial stress vs. axial strain for original and modified soil</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Microstructural Analysis (SEM)</h3>
 <p>Scanning electron microscopy images showing: (a) loose flaky grains with poor binding in raw soil, (b) large clusters with better binding in soil + 15% FA, (c) polyester fibers embedded in soil grains, and (d) clustered soil attached to fibers — confirming the dual mechanism of fiber bridging and fly ash cementation.</p>
-<img src="/images/research-projects/SEM-images-a-Raw-soil-b-Soil-15-FA-c-Soil-15-polyester-fiber-d-Soil-15_W640.jpg" alt="SEM images of raw and treated soil samples" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+<img src="/images/research-projects/SEM-images-a-Raw-soil-b-Soil-15-FA-c-Soil-15-polyester-fiber-d-Soil-15_W640.jpg" alt="SEM images of raw and treated soil samples" style="max-width: 90%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: SEM images — (a) Raw soil, (b) Soil + 15% FA, (c) Soil + 1.5% polyester fiber, (d) Soil + 1.5% polyester fiber + 15% FA</p>
 </div>
 
