@@ -32,7 +32,7 @@ The network is pre-trained on 2,000 finite-element simulations sampled from a 2,
 <div style="margin-bottom: 30px;">
 <h3>Parameter-Space Coverage</h3>
 <p>Distribution comparison between the FEM-generated synthetic dataset (2,000 simulations) and the 275 field case histories across six input parameters: height, slope angle, unit weight, cohesion, friction angle, and pore-pressure ratio. The synthetic data provides broader coverage to support pre-training, while the field cases concentrate on ranges commonly encountered in practice.</p>
-<img src="/images/research-projects/807bb3c5-1cfd-4035-b9e2-39cffd2374b9-1785841422037_image.png" alt="Parameter-space coverage: synthetic vs reference cases" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+<img src="/images/research-projects/Slope Stability_FEM Data.png" alt="Parameter-space coverage: synthetic vs reference cases" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Parameter-space coverage — synthetic (FEM-generated) vs. reference field cases</p>
 </div>
 
