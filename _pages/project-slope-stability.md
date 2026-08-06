@@ -27,7 +27,7 @@ The network is pre-trained on 2,000 finite-element simulations sampled from a 2,
 
 ---
 
-## Experimental Analysis
+## Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Parameter-Space Coverage</h3>
@@ -39,14 +39,15 @@ The network is pre-trained on 2,000 finite-element simulations sampled from a 2,
 <div style="margin-bottom: 30px;">
 <h3>Predictive Performance Across Evaluation Metrics</h3>
 <p>Five-fold cross-validation results comparing all six models across accuracy, precision, recall, F1-score, and AUC. Bars show fold means; whiskers show spread. Purple denotes conventional baselines; green denotes the proposed physics-informed models. Despite slightly lower point estimates, the B-PINN's performance is statistically indistinguishable from the baselines.</p>
-<img src="/images/research-projects/e998d733-3eb6-4256-a0ea-2f4d0458f848-1785841437476_image.png" alt="Predictive performance across evaluation metrics" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+<img src="/images/research-projects/Slope Stability_Five fold.png" alt="Predictive performance across evaluation metrics" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Predictive performance — five-fold cross-validation across evaluation metrics</p>
 </div>
+
 
 <div style="margin-bottom: 30px;">
 <h3>Physical Consistency of Candidate Models</h3>
 <p>(a) Heatmap of monotonicity violations broken down by input parameter and model — darker shading indicates more frequent violations. The B-PINN columns show dashes (no violations possible by construction). (b) Overall monotonicity violation measure on a relative scale, confirming that the B-PINN (both base and pre-trained variants) records zero violations while all conventional baselines exhibit worst-case violations.</p>
-<img src="/images/research-projects/ce399e3d-f2cd-4734-ad62-57430691d518-1785841430261_image.png" alt="Physical consistency of candidate models" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
+<img src="/images/research-projects/Slope Stability_Physical Consistancy.png" alt="Physical consistency of candidate models" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Physical consistency — (a) violations by input, (b) overall monotonicity measure</p>
 </div>
 
