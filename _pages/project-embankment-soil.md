@@ -30,19 +30,19 @@ Flood-control embankments along haor wetlands in Tahirpur, Sunamganj (northeaste
 <div style="text-align: center; margin: 30px 0;">
 <h3>Strength across three optimization stages</h3>
 <p>Bearing capacity increased steadily with WPF due to enhanced fiber reinforcement, whereas FA and lime exhibited optimum dosages, beyond which excess binder reduced soil–binder efficiency and led to a decline in bearing capacity. The unconfined compressive strength test shows comparable results. </p>
-  <img src="/images/research-projects/1fff365a-8828-4456-964c-12ccf4015c5d-1785843436122_image.png" alt="CBR bearing capacity results across three optimisation stages" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+  <img src="/images/research-projects/1fff365a-8828-4456-964c-12ccf4015c5d-1785843436122_image.png" alt="CBR bearing capacity results across three optimisation stages" style="max-width: 75%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <p style="font-size: 0.85em; color: #666; margin-top: 8px;"><em>Figure 1: CBR stress–penetration curves across three optimisation stages — WPF dosage selection (left), FA dosage selection (centre), and Lime dosage selection (right).</em></p>
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
- <img src="/images/research-projects/1f08d479-a8b5-4d8c-ab5c-aad948077c11-1785843441917_image.png" alt="UCS results across three optimisation stages" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+ <img src="/images/research-projects/1f08d479-a8b5-4d8c-ab5c-aad948077c11-1785843441917_image.png" alt="UCS results across three optimisation stages" style="max-width: 75%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <p style="font-size: 0.85em; color: #666; margin-top: 8px;"><em>Figure 2: Unconfined compressive strength across three optimisation stages — WPF dosage selection (left), FA dosage selection (centre), and Lime dosage selection (right).</em></p>
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
 <h3>Change in desiccation cracking across three stages</h3>
 <p>Desiccation cracking decreased progressively across the optimisation stages as fibres restrained crack propagation, while FA and lime further reduced crack formation by strengthening interparticle bonding and producing a denser cementitious matrix.</p>
-  <img src="/images/research-projects/909fafed-9c41-4920-92fa-b900fcebd6ad-1785843459501_image.png" alt="Desiccation cracking reduction results" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+  <img src="/images/research-projects/909fafed-9c41-4920-92fa-b900fcebd6ad-1785843459501_image.png" alt="Desiccation cracking reduction results" style="max-width: 75%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <p style="font-size: 0.85em; color: #666; margin-top: 8px;"><em>Figure 3: Desiccation cracking metrics — crack volume and surface crack area reduction with progressive additive incorporation.</em></p>
 </div>
 
